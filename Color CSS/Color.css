@@ -1,0 +1,143 @@
+/* With this CSS, you don't have to make another class
+for text or title that has a same size and fonts
+and usage is easy just this <p class= "darkgreen-color text"></p>
+ */
+
+.black-color{
+    color: #000;
+}
+
+.white-color{
+    color: #fff;
+}
+
+.darkgreen-color{
+    color: rgb(0,100,0);
+}
+
+.green-color{
+    color: rgb(0, 129,0);
+}
+
+.lawngreen-color{
+    color: rgb(124, 252, 0);
+}
+
+.lime-color{
+color: rgb(50,205,50);
+}
+
+
+.mediumseagreen-color{
+    color: rgb(60,179,113);
+}
+
+.salmon-color{
+    color: rgb(250,128,114);
+}
+
+.lightcoral-color{
+    color: rgb(240,128,128);
+}
+
+.crimson-color{
+    color:rgb(220,20,60);
+}
+
+.red-color{
+    color: 	rgb(255,0,0);
+}
+
+.darkred-color{
+    color:rgb(139,0,0);
+}
+
+.firebrick-color{
+    color: rgb(178,34,34);
+}
+
+.blue-color{
+    color: rgb(0,0,255);
+}
+
+.aqua-color{
+    color: rgb(0, 255, 255);
+}
+
+.navy-color{
+    color:rgb(0,0,128)
+}
+.midnight-color{
+    color:rgb(25,25,112)
+}
+
+
+/*---- COLOR WITH OPACITY --------*/
+
+.black-opacity-color{
+    color: rgba(0,0,0,0.5);
+}
+
+.white-opacity-color{
+    color: rgba(255,255,255, 0.7);
+}
+
+.darkgreen-opacity-color{
+    color: rgba(0,100,0, 0.5);
+}
+
+.green-opacity-color{
+    color: rgba(0, 129,0,0.6);
+}
+
+.lawngreen-opacity-color{
+    color: rgba(124, 252, 0,0.5);
+}
+
+.lime-opacity-color{
+    color: rgba(50,205,50,0.7);
+}
+
+
+.mediumseagreen-opacity-color{
+    color: rgba(60,179,113,0.7);
+}
+
+.salmon-opacity-color{
+    color: rgba(250,128,114,0.5);
+}
+
+.lightcoral-opacity-color{
+    color: rgba(240,128,128,0.6);
+}
+
+.crimson-opacity-color{
+    color:rgba(220,20,60, 0.5);
+}
+
+.red-opacity-color{
+    color: 	rgba(255,0,0,0.5);
+}
+
+.darkred-opacity-color{
+    color:rgba(139,0,0, 0.7);
+}
+
+.firebrick-opacity-color{
+    color: rgba(178,34,34,0.6);
+}
+
+.blue-opacity-color{
+    color: rgba(0,0,255,0.7);
+}
+
+.aqua-opacity-color{
+    color: rgba(0, 255, 255,0.7);
+}
+
+.navy-opacity-color{
+    color:rgba(0,0,128, 0.7)
+}
+.midnight-opacity-color{
+    color:rgba(25,25,112,0.6)
+}

@@ -1,0 +1,34 @@
+/* WITH THIS CSS YOU CAN PUT A LAYOUT COLOR ON YOUR COLOR BACKGROUND
+DIV TO MAKE IT LOOK NICE.
+USAGE: <div "Your-class">
+        <div class="bright layout">
+
+            YOUR CONTENT
+
+        </div>
+        </div>
+ */
+
+.layout{
+    width: 100%;
+    display: block;
+    height: inherit;
+}
+
+.bright{
+    background-color: rgba(255, 255,255, 0.2);
+}
+
+.shadow{
+    background-color: rgba(0, 0,0,0.2);
+}
+
+.red-l{
+    background-color: rgba(210, 0 ,0, 0.1);
+}
+.blue-l{
+    background-color: rgba(0, 0, 180, 0.1);
+}
+.green-l{
+    background-color: rgba(0,190, 0, 0.2);
+}
